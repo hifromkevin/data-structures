@@ -29,7 +29,6 @@ var stackMethods = {
     }
   }, 
   size: function() {
-    console.log(this.count);
     return this.count;
   }
 };
